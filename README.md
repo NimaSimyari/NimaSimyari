@@ -33,7 +33,8 @@ I am particularly interested in research-oriented AI, rigorous experimentation, 
 
 ## Research Interests
 
-* **Deep Learning**
+* **Artificial intelligence**
+* **Deep Learning & Machine Learning**
 * **Natural Language Processing & Large Language Models (LLMs)**
 * **Retrieval-Augmented Generation (RAG)**
 * **Reinforcement Learning**
