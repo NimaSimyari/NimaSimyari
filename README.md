@@ -8,7 +8,7 @@ University of Genoa, Italy
 </p>
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/nima-simyari-3a3a11b2/](https://www.linkedin.com/in/nimasimyari)](https://www.linkedin.com/in/nimasimyari/?isSelfProfile=true)">
+  <a href="https://www.linkedin.com/in/nimasimyari/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-Nima%20Simyari-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
